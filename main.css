@@ -12,13 +12,16 @@ body {
 
 button {
     margin: 0;
-    background-color: #000000;
-    color: #ffffff;
-    padding: 1em;
-    border: none;
-    border-radius: 0.7em;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 2em;
+    font-weight: 1000;
+    font-size: medium;
+    width: 20em;
+    border-width: 10px;
+    border-radius: 0.9em;
 }
 
 button:hover {
-    background-color: #3f3f3f;
+    background-color: #e8e8e8;
 }
