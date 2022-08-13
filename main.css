@@ -2,16 +2,7 @@
     box-sizing: border-box;
 }
 
-.oldBodyColor {
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 20%;
-}
-
-.newBodyColor {
-    background-color: aqua;
+body {
     text-align: center;
     display: flex;
     align-items: center;
